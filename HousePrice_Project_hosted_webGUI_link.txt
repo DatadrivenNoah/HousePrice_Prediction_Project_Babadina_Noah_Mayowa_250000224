@@ -6,6 +6,7 @@ Machine Learning Algorithm Used: Random Forest
 
 Model persistence method used : Joblib
 
-Live URL of the hosted application : 
+Live URL of the hosted application : https://houseprice-prediction-project-babadina.onrender.com
 
 GitHub repository link : https://github.com/DatadrivenNoah/HousePrice_Prediction_Project_Babadina_Noah_Mayowa_250000224
+
